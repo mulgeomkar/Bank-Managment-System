@@ -34,6 +34,6 @@ git clone https://github.com/mulgeomkar/Bank-Managment-System.git
 ```
 Open the project in NetBeans or VS Code.
 
-Compile and run the main Java file.
+Compile and run the main Java file
 
 
